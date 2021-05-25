@@ -9,6 +9,7 @@
 1. [tflite-support](https://github.com/tensorflow/tflite-support.git)
 
 2. [오디오 분류기 통합](https://www.tensorflow.org/lite/tutorials/model_maker_audio_classification)
+  -> [오디오 분류기 통합2](https://www.tensorflow.org/lite/inference_with_metadata/task_library/audio_classifier)
 
 3. [오디오 데이터 준비 및 증강](https://www.tensorflow.org/io/tutorials/audio?hl=ko)
 
@@ -18,3 +19,6 @@
 
 6. [Audio recognition using Tensorflow Lite in Flutter applications](https://carolinamalbuquerque.medium.com/audio-recognition-using-tensorflow-lite-in-flutter-application-8a4ad39964ae)
 
+7. [TensorFlow Lite  e-Learning과정](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
+
+8. [Device-based Models with TensorFlow Lite(https://www.coursera.org/learn/device-based-models-tensorflow#syllabus)
