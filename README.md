@@ -13,12 +13,16 @@
 
 3. [오디오 데이터 준비 및 증강](https://www.tensorflow.org/io/tutorials/audio?hl=ko)
 
-5. [TensorFlow Lite Model Maker를 사용하여 오디오 도메인에 대한 전이 학습](https://www.tensorflow.org/lite/inference_with_metadata/task_library/audio_classifier)
+4. [모델변환](https://www.tensorflow.org/lite/convert)
 
-5. [Tensorflow and Tensorflow Lite code in the context of audio processing (MFCC, RNN)](https://gist.github.com/padoremu/8288b47ce76e9530eb288d4eec2e0b4d)
+5. [모델최적화](https://www.tensorflow.org/lite/performance/model_optimization)
 
-6. [Audio recognition using Tensorflow Lite in Flutter applications](https://carolinamalbuquerque.medium.com/audio-recognition-using-tensorflow-lite-in-flutter-application-8a4ad39964ae)
+6. [TensorFlow Lite Model Maker를 사용하여 오디오 도메인에 대한 전이 학습](https://www.tensorflow.org/lite/inference_with_metadata/task_library/audio_classifier)
 
-7. [TensorFlow Lite  e-Learning과정](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
+7. [Tensorflow and Tensorflow Lite code in the context of audio processing (MFCC, RNN)](https://gist.github.com/padoremu/8288b47ce76e9530eb288d4eec2e0b4d)
 
-8. [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow#syllabus)
+8. [Audio recognition using Tensorflow Lite in Flutter applications](https://carolinamalbuquerque.medium.com/audio-recognition-using-tensorflow-lite-in-flutter-application-8a4ad39964ae)
+
+9. [TensorFlow Lite  e-Learning과정](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
+
+10. [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow#syllabus)
