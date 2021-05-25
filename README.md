@@ -21,4 +21,4 @@
 
 7. [TensorFlow Lite  e-Learning과정](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
 
-8. [Device-based Models with TensorFlow Lite(https://www.coursera.org/learn/device-based-models-tensorflow#syllabus)
+8. [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow#syllabus)
