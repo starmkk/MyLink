@@ -75,5 +75,5 @@ interpreter.run(input, modelOutput);
 
 ## 3. Voice Filter 
 
-1. (VoiceFilter-Lite: Streaming Targeted Voice Separation for On-Device Speech Recognition)[https://google.github.io/speaker-id/publications/VoiceFilter-Lite/]
+1. [VoiceFilter-Lite: Streaming Targeted Voice Separation for On-Device Speech Recognition](https://google.github.io/speaker-id/publications/VoiceFilter-Lite/)
 
