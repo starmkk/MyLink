@@ -28,3 +28,5 @@
 10. Coursera - [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow#syllabus)
 
 11. [A Definitive Guide for Audio Processing in Android with TensorFlow Lite Models](https://heartbeat.fritz.ai/a-definitive-guide-for-audio-processing-in-android-with-tensorflow-lite-models-d90de896f0c4)
+
+12. [TensorFlow Tutorial](https://data-flair.training/blogs/tensorflow-tutorial/)
