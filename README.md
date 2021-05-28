@@ -29,9 +29,15 @@
 
 11. [A Definitive Guide for Audio Processing in Android with TensorFlow Lite Models](https://heartbeat.fritz.ai/a-definitive-guide-for-audio-processing-in-android-with-tensorflow-lite-models-d90de896f0c4)
 
-12. [TensorFlow Tutorial](https://data-flair.training/blogs/tensorflow-tutorial/)
+12. [Android에서 커스텀 TensorFlow Lite 모델 사용](https://firebase.google.com/docs/ml/android/use-custom-models?hl=ko)
 
-13. [Android에서 커스텀 TensorFlow Lite 모델 사용](https://firebase.google.com/docs/ml/android/use-custom-models?hl=ko)
+13. Tensorflow lite
+  * [파이킴 runForMultipleInputsOutputs](https://pythonkim.tistory.com/134?category=703510)
+  * [Tensorflow Lite android 기본 개인정리](https://wiserloner.tistory.com/1379)
+  * [TensorFlow Tutorial](https://data-flair.training/blogs/tensorflow-tutorial/)
 
-14. (Tensorflow lite)[https://pythonkim.tistory.com/134?category=703510]
-  * runForMultipleInputsOutputs
+14. [Tensorflow-lite signiture 분석](https://quizee-ab.tistory.com/14)
+
+15. [Recognize Flowers with TensorFlow Lite on Android])[https://developer.android.com/codelabs/recognize-flowers-with-tensorflow-on-android?hl=pt#0]
+
+16. 
