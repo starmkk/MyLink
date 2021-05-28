@@ -30,3 +30,5 @@
 11. [A Definitive Guide for Audio Processing in Android with TensorFlow Lite Models](https://heartbeat.fritz.ai/a-definitive-guide-for-audio-processing-in-android-with-tensorflow-lite-models-d90de896f0c4)
 
 12. [TensorFlow Tutorial](https://data-flair.training/blogs/tensorflow-tutorial/)
+
+13. [Android에서 커스텀 TensorFlow Lite 모델 사용] (https://firebase.google.com/docs/ml/android/use-custom-models?hl=ko )
