@@ -38,6 +38,6 @@
 
 14. [Tensorflow-lite signiture 분석](https://quizee-ab.tistory.com/14)
 
-15. [Recognize Flowers with TensorFlow Lite on Android])[https://developer.android.com/codelabs/recognize-flowers-with-tensorflow-on-android?hl=pt#0]
+15. [Recognize Flowers with TensorFlow Lite on Android](https://developer.android.com/codelabs/recognize-flowers-with-tensorflow-on-android?hl=pt#0)
 
 16. 
