@@ -32,3 +32,6 @@
 12. [TensorFlow Tutorial](https://data-flair.training/blogs/tensorflow-tutorial/)
 
 13. [Android에서 커스텀 TensorFlow Lite 모델 사용](https://firebase.google.com/docs/ml/android/use-custom-models?hl=ko)
+
+14. (Tensorflow lite)[https://pythonkim.tistory.com/134?category=703510]
+  * runForMultipleInputsOutputs
