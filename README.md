@@ -23,8 +23,8 @@
 
 8. [Audio recognition using Tensorflow Lite in Flutter applications](https://carolinamalbuquerque.medium.com/audio-recognition-using-tensorflow-lite-in-flutter-application-8a4ad39964ae)
 
-9. [TensorFlow Lite  e-Learning과정](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
+9. Udacity - [TensorFlow Lite  e-Learning과정](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
 
-10. [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow#syllabus)
+10. Coursera - [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow#syllabus)
 
 11. [A Definitive Guide for Audio Processing in Android with TensorFlow Lite Models](https://heartbeat.fritz.ai/a-definitive-guide-for-audio-processing-in-android-with-tensorflow-lite-models-d90de896f0c4)
