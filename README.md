@@ -89,7 +89,7 @@ interpreter.run(input, modelOutput);
    * [Attention Is All You Need - 나동빈](https://www.youtube.com/watch?v=AA621UofTUA)
    * [GAN: Generative Adversarial Networks (꼼꼼한 딥러닝 논문 리뷰와 코드 실습)](https://www.youtube.com/watch?v=AVvlDmhHgC4&t=1245s)
    
-2.Speech Enhancement GAN
+2. Speech Enhancement GAN
    * [Self Attention GAN for Speech Enhancement](https://arxiv.org/pdf/2010.09132.pdf)
    * [Self Attention GAN for Speech Enhancement in Tensorflow 2](https://github.com/usimarit/sasegan)
  
