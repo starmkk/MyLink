@@ -6,7 +6,12 @@
 ## 2. Tensorflow
 1. [tf.data : TensorFlow 입력 파이프 라인 빌드](https://www.tensorflow.org/guide/data)
 2. [tf.data API로 성능 향상하기](https://colab.research.google.com/github/tensorflow/docs-l10n/blob/master/site/ko/guide/data_performance.ipynb?hl=ko)
-
+3. 분산훈련
+   * [분산 훈련 / strategy.num_replicas_in_sync](https://ahnjg.tistory.com/34)
+   * [케라스를 사용한 분산 훈련 / MirroredStrategy ](https://www.tensorflow.org/tutorials/distribute/keras)
+   * [텐서플로로 분산 훈련하기](https://colab.research.google.com/github/jiyongjung0/tf-docs/blob/distribute_strategy/site/ko/beta/guide/distribute_strategy.ipynb)
+4. [체크포인트 훈련하기](https://www.tensorflow.org/guide/checkpoint?hl=ko)
+5. [tf.function으로 성능 향상하기](https://www.tensorflow.org/guide/function?hl=ko)
 
 ## 3. Audio recognition using Tensorflow Lite
 
