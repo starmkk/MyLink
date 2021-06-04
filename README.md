@@ -2,9 +2,13 @@
 
 ## 1. 블러그
 1. [Speech Processing for Machine Learning: Filter backs, Mel-Frequency Cepstral Coefficients(MFCCs) and What's In-Between](https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
- 
 
-## 2. Audio recognition using Tensorflow Lite
+## 2. Tensorflow
+1. [tf.data : TensorFlow 입력 파이프 라인 빌드](https://www.tensorflow.org/guide/data)
+2. [tf.data API로 성능 향상하기](https://colab.research.google.com/github/tensorflow/docs-l10n/blob/master/site/ko/guide/data_performance.ipynb?hl=ko)
+
+
+## 3. Audio recognition using Tensorflow Lite
 
 1. [tflite-support](https://github.com/tensorflow/tflite-support.git)
 
@@ -75,16 +79,16 @@ interpreter.run(input, modelOutput);
   * [Deep Learning for Audio with TFLite support to run on Android](https://github.com/dhiraa/shabda)
   * [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite)
   
-## 3. Voice Filter 
+## 4. Voice Filter 
 
 1. [VoiceFilter-Lite: Streaming Targeted Voice Separation for On-Device Speech Recognition](https://google.github.io/speaker-id/publications/VoiceFilter-Lite/)
 
-## 4. Speech Recognition
+## 5. Speech Recognition
 1. [End-to-End Speech Processing Toolkit](https://github.com/espnet/espnet)
 
 
-## 논문
-1. Transofrmer
+## 6. 논문
+1. Transformer
    * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
    * [Attention Is All You Need - 나동빈](https://www.youtube.com/watch?v=AA621UofTUA)
    * [GAN: Generative Adversarial Networks (꼼꼼한 딥러닝 논문 리뷰와 코드 실습)](https://www.youtube.com/watch?v=AVvlDmhHgC4&t=1245s)
