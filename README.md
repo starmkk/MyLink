@@ -105,6 +105,27 @@ interpreter.run(input, modelOutput);
 3. [Awesome Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement#Overview)
 
 
+## 7. Datasets
 
+Speech ehancement datasets (sorted by usage frequency in paper)
+
+### English 
+
+|   **Name**   |                             **Source**                             | **Hours** |
+| :----------: | :----------------------------------------------------------------: | :-------: |
+| Dataset by University of Edinburgh | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/1942) |   -h   |
+| REVERB | [https://reverb2014.dereverberation.com](https://reverb2014.dereverberation.com/download.html) |   -h   |
+| LibriSpeech  |              [LibriSpeech](http://www.openslr.org/12)              |   970h    |
+| Common Voice | [https://commonvoice.mozilla.org](https://commonvoice.mozilla.org) |   1932h   |
+| CHiME series | [hhttps://chimechallenge.github.io](https://chimechallenge.github.io/chime6/) |   -h   |
+
+### German
+
+|   **Name**   |                             **Source**                              | **Hours** |
+| :----------: | :-----------------------------------------------------------------: | :-------: |
+| Common Voice | [https://commonvoice.mozilla.org/](https://commonvoice.mozilla.org) |   750h    |
+
+
+Augmentation noise sources (sorted by usage frequency in paper)
 
 
