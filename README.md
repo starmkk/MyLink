@@ -3,16 +3,11 @@
 
 #### Speech ehancement datasets (sorted by usage frequency in paper)
 
-### English for paper
-
-|   **Name**   |                             **Source**                             | **Hours** |
-| :----------: | :----------------------------------------------------------------: | :-------: |
-| Dataset by University of Edinburgh | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/1942) |   -h   |
-
 ### English 
 
 |   **Name**   |                             **Source**                             | **Hours** |
 | :----------: | :----------------------------------------------------------------: | :-------: |
+| Dataset by University of Edinburgh | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/1942) |   -h   |
 | VCTK(2009) | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/3443) |   -h   |
 | LibriSpeech  | [http://www.openslr.org](http://www.openslr.org/12)              |   970h    |
 | Common Voice | [https://commonvoice.mozilla.org](https://commonvoice.mozilla.org) |   -h   |
