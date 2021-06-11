@@ -35,6 +35,7 @@
 | DEMAND | [https://zenodo.org](https://zenodo.org/record/1227121#.YMK7OJMzZNx) |   -h    |
 | 100 Noise | [http://web.cse.ohio-state.edu](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/Nonspeech.zip) |   -h    |
 | RIRS_NOISES| [https://www.openslr.org](https://www.openslr.org/resources/28/rirs_noises.zip) |   -h    |
+| QUT-NOISE| [https://research.qut.edu.au](https://research.qut.edu.au/saivt/databases/qut-noise-databases-and-protocols) |   -h    |
 
 
 #### Audio data augmentation
