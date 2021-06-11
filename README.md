@@ -1,3 +1,60 @@
+
+## 1. Datasets
+
+Speech ehancement datasets (sorted by usage frequency in paper)
+
+### English for paper
+
+|   **Name**   |                             **Source**                             | **Hours** |
+| :----------: | :----------------------------------------------------------------: | :-------: |
+| Dataset by University of Edinburgh | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/1942) |   -h   |
+
+### English 
+
+|   **Name**   |                             **Source**                             | **Hours** |
+| :----------: | :----------------------------------------------------------------: | :-------: |
+| VCTK(2009) | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/3443) |   -h   |
+| LibriSpeech  | [http://www.openslr.org](http://www.openslr.org/12)              |   970h    |
+| Common Voice | [https://commonvoice.mozilla.org](https://commonvoice.mozilla.org) |   1932h   |
+
+### German
+
+|   **Name**   |                             **Source**                              | **Hours** |
+| :----------: | :-----------------------------------------------------------------: | :-------: |
+| Common Voice | [https://commonvoice.mozilla.org/](https://commonvoice.mozilla.org) |   750h    |
+
+
+Augmentation noise sources (sorted by usage frequency in paper)
+
+
+|   **Name**   |                             **Source**                              | **Hours** |
+| :----------: | :-----------------------------------------------------------------: | :-------: |
+| DEMAND | [https://zenodo.org](https://zenodo.org/record/1227121#.YMK7OJMzZNx) |   -h    |
+| 100 Noise | [http://web.cse.ohio-state.edu](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/Nonspeech.zip) |   -h    |
+| RIRS_NOISES| [https://www.openslr.org](https://www.openslr.org/resources/28/rirs_noises.zip) |   -h    |
+
+
+## 2. 논문
+1. Transformer
+   * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+   * [Attention Is All You Need - 나동빈](https://www.youtube.com/watch?v=AA621UofTUA)
+   * [GAN: Generative Adversarial Networks (꼼꼼한 딥러닝 논문 리뷰와 코드 실습)](https://www.youtube.com/watch?v=AVvlDmhHgC4&t=1245s)
+   
+2. Speech Enhancement GAN
+   * [Self Attention GAN for Speech Enhancement](https://arxiv.org/pdf/2010.09132.pdf)
+   * [Self Attention GAN for Speech Enhancement in Tensorflow 2](https://github.com/usimarit/sasegan)
+ 
+3. [Awesome Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement#Overview)
+
+
+
+
+
+
+
+
+
+
 # 1.음성처리
 
 ## 1. 블러그
@@ -90,55 +147,6 @@ interpreter.run(input, modelOutput);
 
 ## 5. Speech Recognition
 1. [End-to-End Speech Processing Toolkit](https://github.com/espnet/espnet)
-
-
-## 6. 논문
-1. Transformer
-   * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
-   * [Attention Is All You Need - 나동빈](https://www.youtube.com/watch?v=AA621UofTUA)
-   * [GAN: Generative Adversarial Networks (꼼꼼한 딥러닝 논문 리뷰와 코드 실습)](https://www.youtube.com/watch?v=AVvlDmhHgC4&t=1245s)
-   
-2. Speech Enhancement GAN
-   * [Self Attention GAN for Speech Enhancement](https://arxiv.org/pdf/2010.09132.pdf)
-   * [Self Attention GAN for Speech Enhancement in Tensorflow 2](https://github.com/usimarit/sasegan)
- 
-3. [Awesome Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement#Overview)
-
-
-## 7. Datasets
-
-### English for paper
-
-|   **Name**   |                             **Source**                             | **Hours** |
-| :----------: | :----------------------------------------------------------------: | :-------: |
-| Dataset by University of Edinburgh | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/1942) |   -h   |
-
-Speech ehancement datasets (sorted by usage frequency in paper)
-
-### English 
-
-|   **Name**   |                             **Source**                             | **Hours** |
-| :----------: | :----------------------------------------------------------------: | :-------: |
-| VCTK(2009) | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/3443) |   -h   |
-| LibriSpeech  | [http://www.openslr.org](http://www.openslr.org/12)              |   970h    |
-| Common Voice | [https://commonvoice.mozilla.org](https://commonvoice.mozilla.org) |   1932h   |
-
-### German
-
-|   **Name**   |                             **Source**                              | **Hours** |
-| :----------: | :-----------------------------------------------------------------: | :-------: |
-| Common Voice | [https://commonvoice.mozilla.org/](https://commonvoice.mozilla.org) |   750h    |
-
-
-Augmentation noise sources (sorted by usage frequency in paper)
-
-
-|   **Name**   |                             **Source**                              | **Hours** |
-| :----------: | :-----------------------------------------------------------------: | :-------: |
-| DEMAND | [https://zenodo.org](https://zenodo.org/record/1227121#.YMK7OJMzZNx) |   -h    |
-| 100 Noise | [http://web.cse.ohio-state.edu](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/Nonspeech.zip) |   -h    |
-| RIRS_NOISES| [https://www.openslr.org](https://www.openslr.org/resources/28/rirs_noises.zip) |   -h    |
-
 
 
 
