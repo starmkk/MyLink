@@ -115,10 +115,8 @@ Speech ehancement datasets (sorted by usage frequency in paper)
 | :----------: | :----------------------------------------------------------------: | :-------: |
 | Dataset by University of Edinburgh | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/1942) |   -h   |
 | VCTK(2009) | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/3443) |   -h   |
-| REVERB | [https://reverb2014.dereverberation.com](https://reverb2014.dereverberation.com/download.html) |   -h   |
 | LibriSpeech  |              [LibriSpeech](http://www.openslr.org/12)              |   970h    |
 | Common Voice | [https://commonvoice.mozilla.org](https://commonvoice.mozilla.org) |   1932h   |
-| CHiME series | [hhttps://chimechallenge.github.io](https://chimechallenge.github.io/chime6/) |   -h   |
 
 ### German
 
