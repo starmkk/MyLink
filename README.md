@@ -107,13 +107,17 @@ interpreter.run(input, modelOutput);
 
 ## 7. Datasets
 
+### English for paper
+
+|   **Name**   |                             **Source**                             | **Hours** |
+| Dataset by University of Edinburgh | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/1942) |   -h   |
+
 Speech ehancement datasets (sorted by usage frequency in paper)
 
 ### English 
 
 |   **Name**   |                             **Source**                             | **Hours** |
 | :----------: | :----------------------------------------------------------------: | :-------: |
-| Dataset by University of Edinburgh | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/1942) |   -h   |
 | VCTK(2009) | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/3443) |   -h   |
 | LibriSpeech  |              [LibriSpeech](http://www.openslr.org/12)              |   970h    |
 | Common Voice | [https://commonvoice.mozilla.org](https://commonvoice.mozilla.org) |   1932h   |
@@ -126,5 +130,16 @@ Speech ehancement datasets (sorted by usage frequency in paper)
 
 
 Augmentation noise sources (sorted by usage frequency in paper)
+
+
+|   **Name**   |                             **Source**                              | **Hours** |
+| :----------: | :-----------------------------------------------------------------: | :-------: |
+| DEMAND | [https://zenodo.org](https://zenodo.org/record/1227121#.YMK7OJMzZNx) |   -h    |
+| 100 Noise | [http://web.cse.ohio-state.edu](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/Nonspeech.zip) |   -h    |
+| RIRS_NOISES| [https://www.openslr.org](https://www.openslr.org/resources/28/rirs_noises.zip) |   -h    |
+
+
+
+
 
 
