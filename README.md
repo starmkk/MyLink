@@ -20,7 +20,7 @@
 
 |   **Name**   |                             **Source**                              | **Hours** |
 | :----------: | :-----------------------------------------------------------------: | :-------: |
-| Common Voice | [https://commonvoice.mozilla.org/](https://commonvoice.mozilla.org) |   750h    |
+| Common Voice | [https://commonvoice.mozilla.org/](https://commonvoice.mozilla.org) |   3.8h    |
 
 
 #### Augmentation noise sources (sorted by usage frequency in paper)
