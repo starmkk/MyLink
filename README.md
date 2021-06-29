@@ -9,7 +9,7 @@
 | :----------: | :----------------------------------------------------------------: | :-------: |
 | Dataset by University of Edinburgh | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/1942) |   19h   |
 | VCTK(2009) | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/3443) |   -h   |
-| LibriSpeech  | [http://www.openslr.org](http://www.openslr.org/12)              |   970h    |
+| LibriSpeech  | [http://www.openslr.org](http://www.openslr.org/12)              |   983h(3539995.721648)    |
 | Common Voice | [https://commonvoice.mozilla.org](https://commonvoice.mozilla.org) |   1837h   |
 | The VoxCeleb1 Dataset | [https://www.robots.ox.ac.uk](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html) |   -h   |
 | The VoxCeleb2 Dataset | [https://www.robots.ox.ac.uk](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html) |   -h   |
@@ -20,7 +20,7 @@
 
 |   **Name**   |                             **Source**                              | **Hours** |
 | :----------: | :-----------------------------------------------------------------: | :-------: |
-| Common Voice | [https://commonvoice.mozilla.org/](https://commonvoice.mozilla.org) |   3.8h    |
+| Common Voice | [https://commonvoice.mozilla.org/](https://commonvoice.mozilla.org) |   832h (2995609.871861)   |
 
 
 #### Augmentation noise sources (sorted by usage frequency in paper)
