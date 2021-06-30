@@ -30,7 +30,7 @@
 | :----------: | :-----------------------------------------------------------------: | :-------: |
 | DEMAND | [https://zenodo.org](https://zenodo.org/record/1227121#.YMK7OJMzZNx) |   8h(28800.384000)     |
 | 100 Noise | [http://web.cse.ohio-state.edu](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/Nonspeech.zip) |   293s(293.299375)   |
-| RIRS_NOISES| [https://www.openslr.org](https://www.openslr.org/resources/28/rirs_noises.zip) |   -27h(97661.178407)    |
+| RIRS_NOISES| [https://www.openslr.org](https://www.openslr.org/resources/28/rirs_noises.zip) |   27h(97661.178407)    |
 | QUT-NOISE| [https://research.qut.edu.au](https://research.qut.edu.au/saivt/databases/qut-noise-databases-and-protocols) |   -h    |
 | MUSAN | [https://www.openslr.org](https://www.openslr.org/17) |   -h    |
 
