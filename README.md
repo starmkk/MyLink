@@ -13,8 +13,8 @@
 | VCTK(2009) | [https://datashare.ed.ac.uk](https://datashare.ed.ac.uk/handle/10283/3443) |   82h(297552.223038)   |
 | LibriSpeech  | [http://www.openslr.org](http://www.openslr.org/12)              |   983h(3539995.721648)    |
 | Common Voice | [https://commonvoice.mozilla.org](https://commonvoice.mozilla.org) |   1837h(6615925.423006)   |
-| The VoxCeleb1 Dataset | [https://www.robots.ox.ac.uk](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html) |   -h   |
-| The VoxCeleb2 Dataset | [https://www.robots.ox.ac.uk](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html) |   -h   |
+| The VoxCeleb1 Dataset | [https://www.robots.ox.ac.uk](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html) |   x   |
+| The VoxCeleb2 Dataset | [https://www.robots.ox.ac.uk](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html) |   x   |
 
 
 
