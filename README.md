@@ -79,6 +79,7 @@
    * [분산 훈련 / strategy.num_replicas_in_sync](https://ahnjg.tistory.com/34)
    * [케라스를 사용한 분산 훈련 / MirroredStrategy ](https://www.tensorflow.org/tutorials/distribute/keras)
    * [텐서플로로 분산 훈련하기](https://colab.research.google.com/github/jiyongjung0/tf-docs/blob/distribute_strategy/site/ko/beta/guide/distribute_strategy.ipynb)
+   * [학습 루프와 함께 tf.distribute.Strategy 사용하기](https://limjun92.github.io/assets/TensorFlow%202.0%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC/5.%20%EB%B6%84%EC%82%B0%ED%98%95%20%ED%95%99%EC%8A%B5/%5B%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC2%5D%20%ED%95%99%EC%8A%B5%20%EB%A3%A8%ED%94%84%EC%99%80%20%ED%95%A8%EA%BB%98%20tf.distribute.Strategy%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 4. [체크포인트 훈련하기](https://www.tensorflow.org/guide/checkpoint?hl=ko)
 5. [tf.function으로 성능 향상하기](https://www.tensorflow.org/guide/function?hl=ko)
 
