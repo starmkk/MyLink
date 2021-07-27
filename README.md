@@ -54,7 +54,7 @@
    * [Self Attention GAN for Speech Enhancement 논문](https://arxiv.org/pdf/2010.09132.pdf)
    * [Self Attention GAN for Speech Enhancement in Tensorflow 2 (페이퍼 관련 소스)](https://github.com/usimarit/sasegan)
    * [Spectral Normalization 논문](https://openreview.net/pdf?id=B1QRgziT-) 
-   * [Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification](https://arxiv.org/pdf/1608.04363.pdf)
+   * [Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification 논문](https://arxiv.org/pdf/1608.04363.pdf)
 
 3. [Awesome Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement#Overview)
 
