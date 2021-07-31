@@ -51,6 +51,7 @@
    * [GAN: Generative Adversarial Networks (꼼꼼한 딥러닝 논문 리뷰와 코드 실습)](https://www.youtube.com/watch?v=AVvlDmhHgC4&t=1245s)
    
 2. Speech Enhancement GAN
+   * [Improving GANs for Speech Enhancement](https://arxiv.org/pdf/2001.05532.pdf)
    * [Self Attention GAN for Speech Enhancement 논문](https://arxiv.org/pdf/2010.09132.pdf)
    * [Self Attention GAN for Speech Enhancement in Tensorflow 2 (페이퍼 관련 소스)](https://github.com/usimarit/sasegan)
    * [Spectral Normalization 논문](https://openreview.net/pdf?id=B1QRgziT-) 
