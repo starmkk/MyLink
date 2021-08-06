@@ -57,7 +57,6 @@
    * [Spectral Normalization 논문](https://openreview.net/pdf?id=B1QRgziT-) 
    * [Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification 논문](https://arxiv.org/pdf/1608.04363.pdf)
    * [To prune, or not to prune: exploring the efficacy of pruning for model compression 논문](https://arxiv.org/pdf/1710.01878.pdf)
-   * [Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification 논문](https://arxiv.org/pdf/1608.04363.pdf)
 
 3. [Awesome Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement#Overview)
 
