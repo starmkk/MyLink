@@ -49,12 +49,14 @@
    * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
    * [Attention Is All You Need - 나동빈](https://www.youtube.com/watch?v=AA621UofTUA)
    * [GAN: Generative Adversarial Networks (꼼꼼한 딥러닝 논문 리뷰와 코드 실습)](https://www.youtube.com/watch?v=AVvlDmhHgC4&t=1245s)
-   * [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/pdf/1710.01878.pdf)
+
 2. Speech Enhancement GAN
    * [Improving GANs for Speech Enhancement 논문](https://arxiv.org/pdf/2001.05532.pdf)
    * [Self Attention GAN for Speech Enhancement 논문](https://arxiv.org/pdf/2010.09132.pdf)
    * [Self Attention GAN for Speech Enhancement in Tensorflow 2 (페이퍼 관련 소스)](https://github.com/usimarit/sasegan)
    * [Spectral Normalization 논문](https://openreview.net/pdf?id=B1QRgziT-) 
+   * [Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification 논문](https://arxiv.org/pdf/1608.04363.pdf)
+   * [To prune, or not to prune: exploring the efficacy of pruning for model compression 논문](https://arxiv.org/pdf/1710.01878.pdf)
    * [Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification 논문](https://arxiv.org/pdf/1608.04363.pdf)
 
 3. [Awesome Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement#Overview)
