@@ -116,7 +116,9 @@
   * [파이킴 runForMultipleInputsOutputs](https://pythonkim.tistory.com/134?category=703510)
   * [Tensorflow Lite android 기본 개인정리](https://wiserloner.tistory.com/1379)
   * [TensorFlow Tutorial](https://data-flair.training/blogs/tensorflow-tutorial/)
-
+14. Quantization
+  * [Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)](https://www.youtube.com/watch?v=4iq-d2AmfRU)
+  * [TensorFlow Model Optimization Toolkit — Pruning API](https://blog.tensorflow.org/2019/05/tf-model-optimization-toolkit-pruning-API.html)
 ~~~
 
 Bitmap bitmap = Bitmap.createScaledBitmap(yourInputImage, 224, 224, true);
