@@ -52,6 +52,7 @@
 
 2. Speech Enhancement GAN
    * [Improving GANs for Speech Enhancement 논문](https://arxiv.org/pdf/2001.05532.pdf)
+   * [Improving GANs for Speech Enhancement (페이퍼 관련 소스)](https://github.com/pquochuy/sasegan)
    * [Self Attention GAN for Speech Enhancement 논문](https://arxiv.org/pdf/2010.09132.pdf)
    * [Self Attention GAN for Speech Enhancement in Tensorflow 2 (페이퍼 관련 소스)](https://github.com/usimarit/sasegan)
    * [Spectral Normalization 논문](https://openreview.net/pdf?id=B1QRgziT-) 
