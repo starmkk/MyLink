@@ -159,14 +159,17 @@ interpreter.run(input, modelOutput);
   * [Deep Learning for Audio with TFLite support to run on Android](https://github.com/dhiraa/shabda)
   * [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite)
   
-## 4. Voice Filter 
+## 4.Voice Filter 
 
 1. [VoiceFilter-Lite: Streaming Targeted Voice Separation for On-Device Speech Recognition](https://google.github.io/speaker-id/publications/VoiceFilter-Lite/)
 
-## 5. Speech Recognition
+# . Tensorflow
+1. [tf.data : TensorFlow 입력 파이프 라인 빌드](https://www.tensorflow.org/guide/data)
+
+# 2.Speech Recognition
+
+## 1.End-to-End
 1. [End-to-End Speech Processing Toolkit](https://github.com/espnet/espnet)
-
-
-
-
+2. [Connectionist Temporal Classification](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
+3. 
 
