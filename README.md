@@ -62,7 +62,7 @@
    * [CMGAN: Conformer-based Metric GAN for Speech Enhancement](https://arxiv.org/pdf/2203.15149v1.pdf)
 
 2. Data Augmentation
-   * [SpecAugment](https://arxiv.org/pdf/1904.08779.pdf)
+   * [SpecAugment 논문](https://arxiv.org/pdf/1904.08779.pdf)
    * [SpecAugment: A New Data Augmentation Method for Automatic Speech Recognition - Google AI Blog](https://ai.googleblog.com/2019/04/specaugment-new-data-augmentation.html)
    
    
