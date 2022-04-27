@@ -42,6 +42,7 @@
 | Link  | Language | Description |
 | ----  | -------- | ----------- |
 | [Data simulation](https://github.com/funcwj/setk/tree/master/doc/data_simu) | Python | Add reverberation, noise or mix speaker. |
+| [audio-SNR](https://github.com/Sato-Kunihiko/audio-SNR) | Python | Mixing an audio file with a noise file at any Signal-to-Noise Ratio. |
 
 
 ## 2. 논문
@@ -58,16 +59,20 @@
    * [Spectral Normalization 논문](https://openreview.net/pdf?id=B1QRgziT-) 
    * [Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification 논문](https://arxiv.org/pdf/1608.04363.pdf)
    * [To prune, or not to prune: exploring the efficacy of pruning for model compression 논문](https://arxiv.org/pdf/1710.01878.pdf)
+   * [CMGAN: Conformer-based Metric GAN for Speech Enhancement](https://arxiv.org/pdf/2203.15149v1.pdf)
+
+2. Data Augmentation
+   [SpecAugment](https://arxiv.org/pdf/1904.08779.pdf)
+   
+   
+3. End to End
+   [Connectionist Temporal Classification](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
+   [Convolution-augmented Transformer for Speech Recognition, 2020](https://arxiv.org/pdf/2005.08100.pdf)
+   [EFFICIENT CONFORMER, 2021](https://arxiv.org/pdf/2005.08100.pdf)
+   [Efficient Conformer (2021 페이퍼 관련 소스)](https://github.com/burchim/EfficientConformer)
+   [Openspeech seminar](https://github.com/sooftware/Speech-Recognition-Tutorial/tree/master/seminar)
 
 3. [Awesome Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement#Overview)
-
-
-
-
-
-
-
-
 
 
 # 1.음성처리
@@ -168,8 +173,7 @@ interpreter.run(input, modelOutput);
 
 # 2.Speech Recognition
 
-## 1.End-to-End
+## 1.toolkit
 1. [End-to-End Speech Processing Toolkit](https://github.com/espnet/espnet)
-2. [Connectionist Temporal Classification](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
-3. 
-
+2. [Openspeech](https://openspeech-team.github.io/openspeech/)
+3.
