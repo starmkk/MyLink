@@ -63,7 +63,7 @@
 
 2. Data Augmentation
    * [SpecAugment](https://arxiv.org/pdf/1904.08779.pdf)
-   * [SpecAugment: A New Data Augmentation Method for Automatic Speech Recognition - Google AI Blog] (https://ai.googleblog.com/2019/04/specaugment-new-data-augmentation.html)
+   * [SpecAugment: A New Data Augmentation Method for Automatic Speech Recognition - Google AI Blog](https://ai.googleblog.com/2019/04/specaugment-new-data-augmentation.html)
    
    
 3. End to End
