@@ -80,7 +80,8 @@
 
 ## 1. 블러그
 1. [Speech Processing for Machine Learning: Filter backs, Mel-Frequency Cepstral Coefficients(MFCCs) and What's In-Between](https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
-2. [RNN transducer] (https://lorenlugosch.github.io/posts/2020/11/transducer/)
+2. [RNN transducer](https://lorenlugosch.github.io/posts/2020/11/transducer/)
+3. [What is translation equivariance, and why do we use convolutions to get it?](https://chriswolfvision.medium.com/what-is-translation-equivariance-and-why-do-we-use-convolutions-to-get-it-6f18139d4c59)
 
 ## 2. Tensorflow
 1. [tf.data : TensorFlow 입력 파이프 라인 빌드](https://www.tensorflow.org/guide/data)
