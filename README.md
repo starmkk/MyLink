@@ -62,15 +62,15 @@
    * [CMGAN: Conformer-based Metric GAN for Speech Enhancement](https://arxiv.org/pdf/2203.15149v1.pdf)
 
 2. Data Augmentation
-   [SpecAugment](https://arxiv.org/pdf/1904.08779.pdf)
+   * [SpecAugment](https://arxiv.org/pdf/1904.08779.pdf)
    
    
 3. End to End
-   [Connectionist Temporal Classification](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
-   [Convolution-augmented Transformer for Speech Recognition, 2020](https://arxiv.org/pdf/2005.08100.pdf)
-   [EFFICIENT CONFORMER, 2021](https://arxiv.org/pdf/2005.08100.pdf)
-   [Efficient Conformer (2021 페이퍼 관련 소스)](https://github.com/burchim/EfficientConformer)
-   [Openspeech seminar](https://github.com/sooftware/Speech-Recognition-Tutorial/tree/master/seminar)
+   * [Connectionist Temporal Classification](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
+   * [Convolution-augmented Transformer for Speech Recognition, 2020](https://arxiv.org/pdf/2005.08100.pdf)
+   * [EFFICIENT CONFORMER, 2021](https://arxiv.org/pdf/2005.08100.pdf)
+   * [Efficient Conformer (2021 페이퍼 관련 소스)](https://github.com/burchim/EfficientConformer)
+   * [Openspeech seminar](https://github.com/sooftware/Speech-Recognition-Tutorial/tree/master/seminar)
 
 3. [Awesome Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement#Overview)
 
