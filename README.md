@@ -70,6 +70,7 @@
    * [Connectionist Temporal Classification](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
    * [Convolution-augmented Transformer for Speech Recognition, 2020](https://arxiv.org/pdf/2005.08100.pdf)
    * [EFFICIENT CONFORMER, 2021](https://arxiv.org/pdf/2005.08100.pdf)
+   * [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2109.01163)
    * [Efficient Conformer (2021 페이퍼 관련 소스)](https://github.com/burchim/EfficientConformer)
    * [Openspeech seminar](https://github.com/sooftware/Speech-Recognition-Tutorial/tree/master/seminar)
 
