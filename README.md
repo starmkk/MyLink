@@ -60,6 +60,9 @@
    * [Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification 논문](https://arxiv.org/pdf/1608.04363.pdf)
    * [To prune, or not to prune: exploring the efficacy of pruning for model compression 논문](https://arxiv.org/pdf/1710.01878.pdf)
    * [CMGAN: Conformer-based Metric GAN for Speech Enhancement](https://arxiv.org/pdf/2203.15149v1.pdf)
+   * [MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement](https://arxiv.org/pdf/1905.04874.pdf)
+   * [MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement](https://arxiv.org/pdf/2104.03538.pdf)
+
 
 2. Data Augmentation
    * [SpecAugment 논문](https://arxiv.org/pdf/1904.08779.pdf)
