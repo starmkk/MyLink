@@ -62,7 +62,8 @@
    * [CMGAN: Conformer-based Metric GAN for Speech Enhancement](https://arxiv.org/pdf/2203.15149v1.pdf)
    * [MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement](https://arxiv.org/pdf/1905.04874.pdf)
    * [MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement](https://arxiv.org/pdf/2104.03538.pdf)
-
+   * [Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression 논문](https://arxiv.org/pdf/2005.07551v1.pdf)
+   * [Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression (페이퍼 관련 소스)](https://github.com/breizhn/DTLN)
 
 2. Data Augmentation
    * [SpecAugment 논문](https://arxiv.org/pdf/1904.08779.pdf)
