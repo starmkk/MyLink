@@ -35,7 +35,8 @@
 | RIRS_NOISES| [https://www.openslr.org](https://www.openslr.org/resources/28/rirs_noises.zip) |   27h(97661.178407)    |
 | QUT-NOISE| [https://research.qut.edu.au](https://research.qut.edu.au/saivt/databases/qut-noise-databases-and-protocols) |   27h (98262.946746)   |
 | MUSAN | [https://www.openslr.org](https://www.openslr.org/17) |   48h (175827.483386)   |
-
+| Deep Noise Suppression (DNS) Challenge - Interspeech 2020| [https://github.com/breizhn/DNS-Challenge](https://github.com/breizhn/DNS-Challenge) | |
+| Deep Noise Suppression (DNS) Challenge - Interspeech 2022| [https://github.com/microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge) | |
 
 #### Audio data augmentation
 
