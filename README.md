@@ -65,7 +65,7 @@
    * [MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement](https://arxiv.org/pdf/2104.03538.pdf)
    * [Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression 논문](https://arxiv.org/pdf/2005.07551v1.pdf)
    * [Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression (페이퍼 관련 소스)](https://github.com/breizhn/DTLN)
-
+   * [A Modulation-Domain Loss for Neural-Network-based Real-time Speech Enhancement](https://paperswithcode.com/paper/a-modulation-domain-loss-for-neural-network-1#results)
 2. Data Augmentation
    * [SpecAugment 논문](https://arxiv.org/pdf/1904.08779.pdf)
    * [SpecAugment: A New Data Augmentation Method for Automatic Speech Recognition - Google AI Blog](https://ai.googleblog.com/2019/04/specaugment-new-data-augmentation.html)
