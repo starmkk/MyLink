@@ -52,7 +52,7 @@
    * [Attention Is All You Need - 나동빈](https://www.youtube.com/watch?v=AA621UofTUA)
    * [GAN: Generative Adversarial Networks (꼼꼼한 딥러닝 논문 리뷰와 코드 실습)](https://www.youtube.com/watch?v=AVvlDmhHgC4&t=1245s)
 
-2. Speech Enhancement GAN
+2. Speech Enhancement 
    * [Improving GANs for Speech Enhancement 논문](https://arxiv.org/pdf/2001.05532.pdf)
    * [Improving GANs for Speech Enhancement (페이퍼 관련 소스)](https://github.com/pquochuy/sasegan)
    * [Self Attention GAN for Speech Enhancement 논문](https://arxiv.org/pdf/2010.09132.pdf)
@@ -66,6 +66,8 @@
    * [Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression 논문](https://arxiv.org/pdf/2005.07551v1.pdf)
    * [Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression (페이퍼 관련 소스)](https://github.com/breizhn/DTLN)
    * [A Modulation-Domain Loss for Neural-Network-based Real-time Speech Enhancement](https://paperswithcode.com/paper/a-modulation-domain-loss-for-neural-network-1#results)
+   * [SDR – HALF-BAKED OR WELL DONE?](https://arxiv.org/pdf/1811.02508.pdf)
+   
 2. Data Augmentation
    * [SpecAugment 논문](https://arxiv.org/pdf/1904.08779.pdf)
    * [SpecAugment: A New Data Augmentation Method for Automatic Speech Recognition - Google AI Blog](https://ai.googleblog.com/2019/04/specaugment-new-data-augmentation.html)
