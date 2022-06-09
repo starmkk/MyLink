@@ -182,6 +182,7 @@ interpreter.run(input, modelOutput);
 
 # . Tensorflow
 1. [tf.data : TensorFlow 입력 파이프 라인 빌드](https://www.tensorflow.org/guide/data)
+2. [케라스 손실 함수 정리](https://cheris8.github.io/artificial%20intelligence/DL-Keras-Loss-Function/)
 
 # 2.Speech Recognition
 
