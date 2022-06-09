@@ -67,6 +67,7 @@
    * [Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression (페이퍼 관련 소스)](https://github.com/breizhn/DTLN)
    * [A Modulation-Domain Loss for Neural-Network-based Real-time Speech Enhancement](https://paperswithcode.com/paper/a-modulation-domain-loss-for-neural-network-1#results)
    * [SDR – HALF-BAKED OR WELL DONE?](https://arxiv.org/pdf/1811.02508.pdf)
+   * [TasNet: time-domain audio separation network for real-time, single-channel speech separation](https://paperswithcode.com/paper/tasnet-time-domain-audio-separation-network)
    
 2. Data Augmentation
    * [SpecAugment 논문](https://arxiv.org/pdf/1904.08779.pdf)
