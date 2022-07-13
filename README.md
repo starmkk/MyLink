@@ -172,6 +172,7 @@ interpreter.run(input, modelOutput);
 ~~~
 14. [Tensorflow-lite signiture 분석](https://quizee-ab.tistory.com/14)
     [블러그 - TFLite Quantization](https://da2so.tistory.com/14?category=1044817)
+    [블러그 - TensorFlow Custom Op으로 데이터 변환 최적화하기](https://blog.pingpong.us/custom-op-in-data-processing)
 
 15. [Recognize Flowers with TensorFlow Lite on Android](https://developer.android.com/codelabs/recognize-flowers-with-tensorflow-on-android?hl=pt#0)
 
@@ -193,6 +194,7 @@ interpreter.run(input, modelOutput);
 1. [End-to-End Speech Processing Toolkit](https://github.com/espnet/espnet)
 2. [Openspeech](https://openspeech-team.github.io/openspeech/)
 3. [DeepSpeec](https://github.com/microsoft/DeepSpeed)
+
 
 ## Challenge
 1.[Deep Noise Suppression Challenge](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2020/#!results)
