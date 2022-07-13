@@ -93,6 +93,10 @@
 1. [Speech Processing for Machine Learning: Filter backs, Mel-Frequency Cepstral Coefficients(MFCCs) and What's In-Between](https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
 2. [RNN transducer](https://lorenlugosch.github.io/posts/2020/11/transducer/)
 3. [What is translation equivariance, and why do we use convolutions to get it?](https://chriswolfvision.medium.com/what-is-translation-equivariance-and-why-do-we-use-convolutions-to-get-it-6f18139d4c59)
+4. [Tensorflow-lite signiture 분석](https://quizee-ab.tistory.com/14)
+5. [TFLite Quantization](https://da2so.tistory.com/14?category=1044817)
+6. [TensorFlow Custom Op으로 데이터 변환 최적화하기](https://blog.pingpong.us/custom-op-in-data-processing)
+
 
 ## 2. Tensorflow
 1. [tf.data : TensorFlow 입력 파이프 라인 빌드](https://www.tensorflow.org/guide/data)
@@ -136,6 +140,7 @@
   * [파이킴 runForMultipleInputsOutputs](https://pythonkim.tistory.com/134?category=703510)
   * [Tensorflow Lite android 기본 개인정리](https://wiserloner.tistory.com/1379)
   * [TensorFlow Tutorial](https://data-flair.training/blogs/tensorflow-tutorial/)
+  
 14. Quantization
   * [Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)](https://www.youtube.com/watch?v=4iq-d2AmfRU)
   * [TensorFlow Model Optimization Toolkit — Pruning API](https://blog.tensorflow.org/2019/05/tf-model-optimization-toolkit-pruning-API.html)
@@ -170,10 +175,6 @@ interpreter.run(input, modelOutput);
 ...
 
 ~~~
-14. [Tensorflow-lite signiture 분석](https://quizee-ab.tistory.com/14)
-    [블러그 - TFLite Quantization](https://da2so.tistory.com/14?category=1044817)
-    [블러그 - TensorFlow Custom Op으로 데이터 변환 최적화하기](https://blog.pingpong.us/custom-op-in-data-processing)
-
 15. [Recognize Flowers with TensorFlow Lite on Android](https://developer.android.com/codelabs/recognize-flowers-with-tensorflow-on-android?hl=pt#0)
 
 16. GitHub: 
